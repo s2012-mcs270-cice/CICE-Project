@@ -1,0 +1,43 @@
+#wrapper {
+   width: 800px;
+   margin: auto;
+}
+#header {
+   text-align: center;
+   border-style: solid;
+   border-width: 1px;
+   font-family: "Arial Bold", Arial;
+   background: #899AB7;
+}
+#content {
+  font-family: "Arial", Arial;
+}
+#navbox {
+   width: 250px;
+   border-style: solid;
+   border-width: 1px;
+   padding: 5px;
+   background: #DDDDDD;
+}
+#navbox h3 {
+   margin-left: 15px;
+}
+#navbox li{
+   margin: 10px;
+}
+#content ul {
+   margin-top: 8px;
+}
+#content li{
+   margin-bottom: 10px;
+}
+h2 {
+   font-size: 22px;
+}
+h3 {
+   margin: 0px;
+   font-size: 20px;
+}
+#topLink {
+   margin-left: 25px;
+}
